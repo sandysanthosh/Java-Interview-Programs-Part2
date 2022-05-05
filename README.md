@@ -17,6 +17,7 @@
 #### Spring boot and Restful webservices:		
 	
 ```  
+
 1.Springboot Annotations.		
 2.@Autowired.		
 3.spring data jpa.		
@@ -24,18 +25,18 @@
 5.Springboot starters.		
 6.Rest API flow.		
 7.snippet for creating RestAPI.		
-1. what is Spring IOC ?			
-2. What is @Autowired and @Required ?			
-3. What is Depency injection in Spring IOC?			
-4. What is Spring MVC ?		
-1.how spring boot works internally		
-2.optional class methods		
-3.java 9 features		
-4.jwt token format and usage		
-5.functional interface		
-6. use of default methods in interface		
-7. example for stream processing		
-8. rest api's annotations	
+8. what is Spring IOC ?			
+9. What is @Autowired and @Required ?			
+10. What is Depency injection in Spring IOC?			
+11. What is Spring MVC ?		
+12.how spring boot works internally			
+13.java 9 features		
+14.jwt token format and usage		
+15.functional interface		
+16. use of default methods in interface		
+17. example for stream processing		
+18. rest api's annotations	
+19.optional class methods
 
 ```
 
